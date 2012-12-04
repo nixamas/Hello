@@ -1,0 +1,15 @@
+package objects;
+
+public class StudentBean {
+
+	private String name = "";
+	private String email = "";
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
